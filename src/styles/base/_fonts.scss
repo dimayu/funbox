@@ -1,18 +1,18 @@
 @font-face {
-  font-family: 'HeliosCond';
-  src: local('HeliosCond Bold'), local('HeliosCond-Bold'),
-      url('../../fonts/HeliosCond-Bold.woff') format('woff'),
-      url('../../fonts/HeliosCond-Bold.woff2') format('woff2');
-  font-weight: bold;
+  font-family: 'Trebuchet MS';
+  src: local('Trebuchet MS'), local('HeliosCond-Bold'),
+      url('../../fonts/TrebuchetMS.woff') format('woff'),
+      url('../../fonts/TrebuchetMS.woff2') format('woff2');
+  font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'HeliosCond';
-  src: local('HeliosCond'), local('HeliosCond'),
-  url('../../fonts/HeliosCond.woff') format('woff'),
-  url('../../fonts/HeliosCond.woff2') format('woff2');
-  font-weight: 400;
+  font-family: 'Trebuchet MS Bold';
+  src: local('TrebuchetMS'), local('TrebuchetMS'),
+  url('../../fonts/TrebuchetMS-Bold.woff') format('woff'),
+  url('../../fonts/TrebuchetMS-Bold.woff2') format('woff2');
+  font-weight: 900;
   font-style: normal;
 }
 
